@@ -45,10 +45,11 @@ To develop an intuitive desktop application that:
 Upload data, compare models, and visualize predictions—all within the app.
 
 📷 **User Interface Preview**  
-![User Demo](GUI_image/user_interface.png)
-
-📷 **Admin Interface Preview**  
-![Admin Demo](GUI_image/admin_interface.png)
+![Demo](GUI_image/Home_Page.png)
+![Demo](GUI_image/Input_Data.png)
+![Demo](GUI_image/Input_Prediction.png)
+![Demo](GUI_image/Select_Model.png)
+![Demo](GUI_image/Download.png)
 
 ---
 
