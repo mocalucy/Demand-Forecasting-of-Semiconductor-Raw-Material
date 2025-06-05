@@ -134,5 +134,5 @@ python GUI.py
 
 ## 📫 Maintainer
 
-Created and maintained by [@mocalucy](https://github.com/mocalucy).  
+Created and maintained by [@cszutung](https://cszutung.github.io) and [@mocalucy](https://github.com/mocalucy).  
 Feel free to star ⭐, fork 🍴, or contribute 🛠️!
